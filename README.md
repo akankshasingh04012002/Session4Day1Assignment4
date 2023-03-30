@@ -5,3 +5,7 @@ So, their is a implementation on a list which contains some integers and the ope
 The list taken is: List(Some(1), Some(2), Some(3), Some(4)) and the operation performed on it is Subtraction.
 the ouput of this is: -8
 
+
+![Screenshot from 2023-03-30 15-08-31](https://user-images.githubusercontent.com/125342404/228804143-2ab1dd0c-6c03-4efc-bd5f-0274b367e652.png)
+
+
